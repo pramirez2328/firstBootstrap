@@ -37,3 +37,7 @@ footer {
 .navbar {
   background-color: #901cad;
 }
+
+ul {
+  list-style-type: none;
+}
