@@ -58,3 +58,13 @@ a:hover {
 
 .carousel-caption {
   background-color: rgba(0, 0, 0, 0.5); }
+
+#reserveModal,
+#loginModal {
+  color: white; }
+  #reserveModal .modal-header.reserve,
+  #loginModal .modal-header.reserve {
+    background-color: #17a2b8; }
+  #reserveModal .modal-header.login,
+  #loginModal .modal-header.login {
+    background-color: #901cad; }
